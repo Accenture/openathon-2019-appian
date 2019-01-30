@@ -1,6 +1,6 @@
 # III Openathon Custom Software Engineering
 
-![III Openathon Custom Software Engineering](https://github.com/Albarian/openathonFY19/raw/master/resources/images/IIopenathon_customopencloud.png "II Openathon Custom Open Cloud")
+![III Openathon Custom Software Engineering](https://github.com/Accenture/openathon-2019-appian/raw/master/images/CSE.png "III Openathon Custom Software Engineering")
 
 You are welcome to a new **Openathon** edition organized for the **Accenture
 Technology - Custom Software Engineering community** where, once again, we will
