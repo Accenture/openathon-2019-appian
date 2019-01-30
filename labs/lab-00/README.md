@@ -9,4 +9,4 @@
 
 ## Resources
 
-[< Home Page](../..) | [Next >](../lab-01)
+[< Home Page](../../README.md) | [Next >](../lab-01)
