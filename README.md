@@ -13,19 +13,15 @@ This edition of the Openathon is divided in the following labs:
 
 | Lab                                 | Title                                      |
 |-------------------------------------|--------------------------------------------|
-| [Lab 00](/labs/lab-00)              | |
-| [Lab 01](/labs/lab-01)              | |
-| [Lab 02](/labs/lab-02)              | |
-| [Lab 03](/labs/lab-03)              | |
-| [Lab 04](/labs/lab-04)              | |
-| [Lab 05](/labs/lab-05)              | |
-| [Lab 06](/labs/lab-06)              | |
-| [Lab 07](/labs/lab-07)              | |
-| [Lab 08](/labs/lab-08)*             | |
-| [Lab 09](/labs/lab-09)*             | |
-
-\* Optional Labs for further learning
-
-## Prerequisites
-
-[Next >](labs/lab-00)
+| [Lab 00](/labs/oa_0.pdf)            | Environments                               |
+| [Lab 01](/labs/oa_1.pdf)            | Application                                |
+| [Lab 02](/labs/oa_2.pdf)            | Interface                                  |
+| [Lab 03](/labs/oa_3.pdf)            | Process model                              |
+| [Lab 04](/labs/oa_4.pdf)            | Monitoring                                 |
+| [Lab 05](/labs/oa_5.pdf)            | Interface review                           |
+| [Lab 06](/labs/oa_6.pdf)            | Process model review                       |
+| [Lab 07](/labs/oa_7.pdf)            | Subprocess                                 |
+| [Lab 08](/labs/oa_8.pdf)            | Monitoring review                          |
+| [Lab 09](/labs/oa_9.pdf)            | Report                                     |
+| [Lab 10](/labs/oa_10.pdf)           | Process model start                        |
+| [Lab 11](/labs/oa_11.pdf)           | Site                                       |
